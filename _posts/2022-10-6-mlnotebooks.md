@@ -13,9 +13,6 @@ Collection of ML Notebooks and occasional analysis for self-development/linkedin
 
 - EmployeeChurnPrediction: Similar to the above, employing ML techniques to identify flight-risk employees. Further deep dive analysis and clustering was performed to idetnfiy a target cohort for business improvement
 
-<div style="text-align: center;">
- <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7D6KJY&placement=wwwamitmerchantcom" id="_carbonads_js"></script>
-</div>
 
 
 
